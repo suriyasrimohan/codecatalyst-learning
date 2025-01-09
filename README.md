@@ -2,10 +2,10 @@
 This repository documents my learning journey for Git, GitHub.
 Git and GitHub Tasks
 1. Introduction to Git:
-      What is Git?
+     * What is Git?
       Git is a distributed version control system for tracking changes in source code.
       
-      Why use Git for version control?
+     * Why use Git for version control?
       Tracks project history.
       Enables collaboration among developers.
       Supports branching for feature development.
