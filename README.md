@@ -41,6 +41,8 @@ Git and GitHub Tasks
        git switch main
        git merge secondary-branch
 10. Merge Conflict:
+
+
         i) Create a File and Commit It:
                 echo "This is the main branch." > conflict-file.txt
                 git add conflict-file.txt
